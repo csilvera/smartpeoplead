@@ -34,11 +34,7 @@
     color: #fff;
 }
 .col-min{
-<<<<<<< HEAD
    color:#F1C40F;
-=======
-   color:#333;
->>>>>>> f88a2de4a9ea11a9af95eec3847a732a25943f35
 }
 .Jum-primary{
     font-size: 22px;
@@ -79,11 +75,7 @@ li.btn-inmenun:active{
 }
 li.btn-inmenur:active{
     background-color: rgba(0,0,0, 0.2);
-<<<<<<< HEAD
     color: #333;
-=======
-    color: #F4511E;
->>>>>>> f88a2de4a9ea11a9af95eec3847a732a25943f35
     font-weight: bold;
 }
 

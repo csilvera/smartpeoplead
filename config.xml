@@ -12,7 +12,7 @@
     <preference name="KeepRunning" value="true"/>
     <preference name="BackgroundColor" value="#FCFCFC"/>
     <preference name="SplashScreenBackgroundColor" value="#FCFCFC"/>
-    <preference name="StatusBarBackgroundColor" value="#FCFCFC" />
+    <preference name="StatusBarBackgroundColor" value="#333333" />
     <preference name="HideKeyboardFormAccessoryBar" value="true"/>
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="21" />
