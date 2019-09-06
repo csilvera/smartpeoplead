@@ -16,6 +16,7 @@ body{
     width: 94%;
     height: 50px;
     box-shadow: 0 0 3px #eee;
+    border: 1px solid #222;
 }
 #opc-1{
     float: left;
